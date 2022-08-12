@@ -1,0 +1,117 @@
+Write a program to calculate sum of the digits of a given numberSolution
+Write a program to reverse a numberSolution
+Write a program to print all Armstrong numbers under 1000.Solution
+Write a program to calculate LCM of two numbersSolution
+Write a program to calculate HCF of two numbers.Solution
+Write a program to check whether a given number is prime or notSolution
+Write a program to print all prime numbers between two given numbersSolution
+Write a program to print all prime factors of a given number. For example prime factors of 36 are 2,2,3,3Solution
+Write a program to print first N terms of Fibonacci seriesSolution
+Write a program to check co-prime numberSolution
+Write a program to print N co-prime numbersSolution
+Write a program to convert a binary number to decimal number
+Write a program to convert a binary number to decimal number improved logic
+Program to print ASCII chartSolution
+Program to print first n positive numbers with two bits setSolution first logic|Solution Second Logic
+Star Pattern-1 Program in CSolution
+Star Pattern-2 Program in CSolution
+Star Pattern-3 Program in C Solution
+Star Pattern-4 Program in CSolution
+Star Pattern-5 Program in CSolution
+Star Pattern-6 Program in C Solution
+Star Pattern-7 Program in C Solution
+Star Pattern-8 Program in C Solution
+Star Pattern-9 Program in CSolution
+Star Pattern-10 Program in C Solution
+Star Pattern-11 Program in C Solution
+Star Pattern-12 Program in C Solution
+Star Pattern-13 Program in CSolution
+Star Pattern-14 Program in CSolution
+Star Pattern-15 Program in CSolution
+Star Pattern-16 Program in CSolution
+Star Pattern-17 Program in CSolution
+Star Pattern-18 Program in CSolution
+Star Pattern-19 Program in CSolution
+Star Pattern-20 Program in CSolution
+Star Pattern-21 Program in CSolution
+Star Pattern-22 Program in CSolution
+Star Pattern-23 Program in CSolution
+Star Pattern-24 Program in CSolution
+Star Pattern-25 Program in CSolution
+Star Pattern-26 Program in CSolution
+Star Pattern-27 Program in CSolution
+Star Pattern-28 Program in CSolution
+Star Pattern-29 Program in CSolution
+Star Pattern-30 Program in C Solution
+Star Pattern-31 Program in C Solution
+Star Pattern-32 Program in C Solution
+Star Pattern-33 Program in C Solution
+Star Pattern-34 Program in C Solution
+Star Pattern-35 Program in CSolution
+Star Pattern-35 Program in CSolution
+Series Problems Program in C1+(1+2)+(1+2+3)+…+(1+2+3+…+N)
+Series Problems Print first N Prime numbers
+C programs on Functions
+
+Write a function to calculate factorial of a number.(Takes Something, Returns Something)Solution
+Write a function to calculate area of a circle.(Takes Something, Returns Something)
+Write a program to print System Date. Solution
+Write a function to calculate sum of first N natural numbers. (all four ways: TNRN, TSRN, TNRS, TSRS)Solution
+Write a function to calculate sum of squares of first N natural numbers.(all four ways: TNRN, TSRN, TNRS, TSRS)Solution
+Write a function to print Pascal triangleSolution
+Write a program to express a given number as a sum of two prime numbers. Print all possible solutions.Solution
+Programs on Recursion
+
+Write a recursive function to calculate factorial of a number.Solution
+Write a recursive function to find Nth term of Fibonacci series.Solution
+Write a recursive function to sort an arraySolution
+Write a recursive function to print first N natural numbersSolution
+Write a recursive function to print first N natural numbers in reverse orderSolution
+Write a recursive function to calculate sum of digits of a number Solution
+Write a recursive function to calculate sum of squares of digits of a numberSolution
+Write a recursive function to calculate sum of cubes of first N natural numbers Solution
+Write a recursive function to calculate determinant of any orderSolution Part 1 of 3 | Solution Part 2 of 3 | Solution part 3 of 3
+Command Line Arguments
+
+How to use command line arguments in C language using code blocks HindiSolution
+How to input integer using command line arguments in C language Hindi Solution
+C Program to add two numbers taking from command line arguments | Hindi Solution
+C Program to calculate factorial of a number taken from command line Solution
+C programs on Arrays
+
+Write a program to calculate sum of all even numbers and sum of all odd numbers. Numbers are entered through keyboard and stored in an array.Solution
+Write a program to find greatest among 10 numbersSolution
+Write a program to find smallest among 10 numbers.Solution
+Write a program to add two matrices, each of order 3×3Solution
+Write a program to multiply two matrices, each of order 3×3Solution
+Program to generate 10 distinct number in given range in CSolution
+Program to rotate an array by n positions in C language Solution
+C programs on Strings
+
+Write a Program to calculate length of the string using strlen() function.Solution
+Write a program to reverse a string using strrev() function.Solution
+Write a program to reverse a string without using strrev() function.Solution
+Write a program to transform a string to its uppercase Solution
+Write a program to sort strings in dictionary orderSolution
+Write a program to check whether a string is palindrome or notSolution
+Write a program to count words in a sentenceSolution
+Write a program to reverse a string word wiseSolution
+Write a program to remove adjacent duplicate characters from a stringSolution
+Write a program to check whether a given string is alphanumeric or not.Solution
+Write a program to input variable length string.
+Write a program to count vowels in a given stringSolution
+Write a program to find a substring in a given string Solution
+Structure in C language
+
+Write a program that define a structure student, with members rollno, name and age. Also define functions to input and show student data.Solution
+C programs on Linked list
+
+How to reverse a linked list in CSolution
+Program of circular linked list Part-1Solution
+Program of circular linked list in C Part-2Solution
+Program of Circular linked list in C Part-3Solution
+Program of Circular linked list in C Part-4Solution
+Program of Circular linked list in C Part-5Solution
+Program of Circular linked list in C Part-6Solution
+Program of Circular linked list in C Part-7Solution
+Program of Circular linked list in C Part-8Solution
