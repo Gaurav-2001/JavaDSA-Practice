@@ -1,23 +1,21 @@
 package com.gaurav.PracticeProblemsFromVideo.CyclicSort;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
-public class Three {
+public class Four {
     public static void main(String[] args) {
-        int[] arr = {0,1,2};
-        System.out.println(MissingNumbers(arr));
+        int[] arr = {1,1};
+        System.out.println(findDisapperaredNumbers(arr));
     }
-    static int MissingNumbers(int[] arr){
+    static List<Integer> findDisapperaredNumbers(int[] arr){
+        ArrayList<Integer> list = new ArrayList<>(1);
         int i=0;
         while(i<=arr.length-1){
-            if(arr[i]!=i){
-                int actualIndex = arr[i];
-                if(actualIndex == arr.length){
-                    i++;
-                }
-                else{
-                    swap(arr,i,actualIndex);
-                }
+            if(arr[i]-1!=i && arr[arr[i]-1]!=arr[i]){
+                int actualIndex = arr[i]-1;
+                swap(arr,i,actualIndex);
             }
             else{
                 i++;
@@ -25,11 +23,11 @@ public class Three {
         }
         System.out.println(Arrays.toString(arr));
         for(i=0;i<=arr.length-1;i++){
-            if(arr[i]!=i){
-                break;
+            if(arr[i]-1!=i){
+                list.add(i+1);
             }
         }
-        return i;
+        return list;
     }
 
     static void swap(int[] arr, int first, int second){
